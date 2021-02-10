@@ -1,2 +1,2 @@
-# blogWebsite
+# CrickBlog
 BlogWebsite using Flask
